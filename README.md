@@ -1,2 +1,2 @@
-# Jupiyter-Exercisesfo-Gabrielibañez
+# Jupiyter-Exercisesfo-Gabriel-Ibañez
 Jupyter Notebooks
